@@ -34,4 +34,5 @@ Git workflows, API interaction, and Markdown documentation
 
 - LinkedIn :https://www.linkedin.com/in/shubham-abb8b4413/
 
-- Email : shubhamyadab842@gami.com
+- Email :2601010250@krmu.edu.in
+  
